@@ -46,14 +46,12 @@ Follow the steps below to set up and run the personal blog on your local environ
 
 6. Now you can access the personal programmer blog in your browser through the address http://localhost:5000.
 
-## Contribution
-Contributions to the Personal Programmer Blog are welcome! Whether it's fixing a bug, adding a new feature, or improving documentation, your contributions help make the blog a better resource for the programming community. Please refer to our [Contribution Guidelines](CONTRIBUTING.md) for more information on how to contribute.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-If you have any questions, feedback, or suggestions regarding the Personal Programmer Blog, please feel free to contact us at [your_email@example.com](mailto:danielkissling65@gmail.com).
+If you have any questions, feedback, or suggestions regarding the Personal Programmer Blog, please feel free to contact us at [danielkissling65@gmail.com](mailto:danielkissling65@gmail.com).
 
 ## Useful Links
 - [Flask Documentation](https://flask.palletsprojects.com/)
